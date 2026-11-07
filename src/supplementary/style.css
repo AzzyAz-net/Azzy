@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Museo', sans-serif;
-    font-weight: 100;
+    font-weight: 90;
 }
 
 h3 {
@@ -20,4 +20,8 @@ h2 {
 
 h1 {
     font-size: 52px;
+}
+
+p {
+    font-size: 16px;
 }
