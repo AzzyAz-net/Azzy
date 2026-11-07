@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Museo'
+    src: url('src/supplementary/museo100/otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Museo', sans-serif;
+    font-weight: 100;
+}
