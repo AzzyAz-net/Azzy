@@ -11,20 +11,23 @@ body {
 }
 
 p {
-    font-size: 24px;
+    font-size: 19px;
     color: white;
 }
 
 h1 {
     color: white;
+    font-size: 40px;
 }
 
 h2 {
     color: white;
+    font-size: 30px;
 }
 
 h3 {
     color: white;
+    font-size: 25px;
 }
 
 body {
